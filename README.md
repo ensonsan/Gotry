@@ -1,0 +1,2 @@
+# Gotry
+Go AI attemp
